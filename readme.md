@@ -32,7 +32,7 @@ Um sistema completo para gerenciamento de alunos, disciplinas, notas e geração
 
 1. **Clone o repositório**:
    ```bash
-   git clone    https://github.com/LuigiAjello/CrudAlunosMySQL.git
+   git clone https://github.com/LuigiAjello/SistemaAlunosMySQL.git
    cd nome-do-repositorio
    ```
 2. **Crie e ative um ambiente virtual (recomendado):** 
